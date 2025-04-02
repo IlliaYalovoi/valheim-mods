@@ -1,0 +1,4 @@
+BepInEx/plugins/Armory/Armory.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/DragonRiders/DragonRiders.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/Warfare/Warfare.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/WarfareFireAndIce/WarfareFireAndIce.dll filter=lfs diff=lfs merge=lfs -text
