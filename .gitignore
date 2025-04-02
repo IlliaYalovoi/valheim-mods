@@ -1,0 +1,14 @@
+.idea
+valheim_Data
+MonoBleedingEdge
+BepInEx/cache
+*.dat
+
+steam_appid.txt
+UnityCrashHandler64.exe
+UnityPlayer.dll
+valheim.exe
+BepInEx/LogOutput.log
+
+BepInEx/config/Azumatt.MinimalUI_Backgrounds
+BepInEx/config/Azumatt.MinimalUI.cfg
