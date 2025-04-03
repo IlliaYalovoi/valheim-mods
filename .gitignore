@@ -10,5 +10,7 @@ UnityPlayer.dll
 valheim.exe
 BepInEx/LogOutput.log
 
+BepInEx/plugins/MinimalUI
 BepInEx/config/Azumatt.MinimalUI_Backgrounds
 BepInEx/config/Azumatt.MinimalUI.cfg
+BepInEx/config/_shudnal.ConfigurationManager.cfg
