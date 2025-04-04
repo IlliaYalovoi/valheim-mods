@@ -11,6 +11,14 @@ valheim.exe
 BepInEx/LogOutput.log
 
 BepInEx/plugins/MinimalUI
+BepInEx/plugins/AugaLite
+BepInEx/plugins/CustomGraphicsSettings
+BepInEx/plugins/DodgeShortcut
+BepInEx/plugins/ExtraSnapsMadeEasy
+
 BepInEx/config/Azumatt.MinimalUI_Backgrounds
 BepInEx/config/Azumatt.MinimalUI.cfg
 BepInEx/config/_shudnal.ConfigurationManager.cfg
+BepInEx/config/ZenDragon.AugaLite.cfg
+BepInEx/config/Searica.Valheim.DodgeShortcut.cfg
+BepInEx/config/Searica.Valheim.ExtraSnapPointsMadeEasy.cfg
